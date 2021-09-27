@@ -1,0 +1,16 @@
+.card{
+    margin-top: 15px;
+    border: 1px solid blue;
+    width: 550px;
+    padding: 40px;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    background-color:rgb(203, 231, 236);
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:blue;
+    color: #ffff;
+}

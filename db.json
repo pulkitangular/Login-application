@@ -1,0 +1,90 @@
+{
+  "employee": [
+    {
+      "firstName": "Arun",
+      "lastName": "Kumar",
+      "email": "arun1365@gmail.com",
+      "mobile": 987456325,
+      "salary": 13500,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "firstName": "sumit",
+      "lastName": "gupta",
+      "email": "sumit12@gmail.com",
+      "mobile": 9874562258,
+      "salary": 25000
+    }
+  ],
+  "signupUsers": [
+    {
+      "firstName": "pulkit",
+      "lastName": "dixit",
+      "email": "pulkitdixit1232@gmail.com",
+      "password": "123654789",
+      "confirmpassword": "123654789",
+      "id": 2
+    },
+    {
+      "firstName": "pulkit",
+      "lastName": "dixit",
+      "email": "pulkit1232@gmail.com",
+      "password": "pulkit123654",
+      "confirmpassword": "pulkit123654",
+      "id": 3
+    },
+    {
+      "firstName": "sumit",
+      "lastName": "gupta",
+      "email": "supt1232@gmail.com",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "id": 4
+    },
+    {
+      "firstName": "gayatri",
+      "lastName": "dixit",
+      "email": "gayatri123@gmail.com",
+      "password": "gayatri123",
+      "confirmpassword": "gayatri123",
+      "id": 5
+    },
+    {
+      "firstName": "Gayatri",
+      "lastName": "Biswas Dixit",
+      "email": "gayatri.biswas005@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": 6
+    },
+    {
+      "firstName": "Manvendra ",
+      "lastName": "Singh",
+      "email": "manu12@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": 7
+    },
+    {
+      "firstName": "Amit",
+      "lastName": "Biswas",
+      "email": "amit123@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": 8
+    },
+    {
+      "firstName": "Gourav",
+      "lastName": "kumar",
+      "email": "gourav123@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
